@@ -1,19 +1,154 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+release:
+  label: Release
+  permalink: /release
+  description: Major game version releases and launches
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+update:
+  label: Update
+  permalink: /update
+  description: Game updates, patches, and new features
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+hotfix:
+  label: Hotfix
+  permalink: /hotfix
+  description: Quick fixes for critical bugs and issues
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+devlog:
+  label: Dev Log
+  permalink: /devlog
+  description: Behind-the-scenes development insights and progress
+
+announcement:
+  label: Announcement
+  permalink: /announcement
+  description: Important news and official announcements
+
+tutorial:
+  label: Tutorial
+  permalink: /tutorial
+  description: How-to guides and tips for players
+
+community:
+  label: Community
+  permalink: /community
+  description: Community highlights, events, and player spotlights
+
+balance:
+  label: Balance
+  permalink: /balance
+  description: Game balance changes and adjustments
+
+bug-fixes:
+  label: Bug Fixes
+  permalink: /bug-fixes
+  description: Bug fixes and issue resolutions
+
+events:
+  label: Events
+  permalink: /events
+  description: Special in-game events and limited-time activities
+
+roadmap:
+  label: Roadmap
+  permalink: /roadmap
+  description: Future plans and upcoming features
+
+new-features:
+  label: New Features
+  permalink: /new-features
+  description: Brand new gameplay features and mechanics
+
+maps:
+  label: Maps
+  permalink: /maps
+  description: New maps and level designs
+
+skins:
+  label: Skins
+  permalink: /skins
+  description: Character skins and cosmetic items
+
+ui-ux:
+  label: UI/UX
+  permalink: /ui-ux
+  description: User interface and experience improvements
+
+performance:
+  label: Performance
+  permalink: /performance
+  description: Performance optimizations and improvements
+
+mobile:
+  label: Mobile
+  permalink: /mobile
+  description: Mobile-specific updates and features
+
+technical:
+  label: Technical
+  permalink: /technical
+  description: Technical details and development notes
+
+competition:
+  label: Competition
+  permalink: /competition
+  description: Tournaments, leaderboards, and competitive play
+
+collaboration:
+  label: Collaboration
+  permalink: /collaboration
+  description: Partnerships and collaborations
+
+merchandise:
+  label: Merchandise
+  permalink: /merchandise
+  description: Official merchandise and products
+
+social:
+  label: Social
+  permalink: /social
+  description: Social features and community interaction
+
+season:
+  label: Season
+  permalink: /season
+  description: Seasonal content and battle passes
+
+milestone:
+  label: Milestone
+  permalink: /milestone
+  description: Important milestones and achievements
+
+server:
+  label: Server
+  permalink: /server
+  description: Server-related updates and maintenance
+
+moderation:
+  label: Moderation
+  permalink: /moderation
+  description: Moderation tools and community guidelines
+
+monetization:
+  label: Monetization
+  permalink: /monetization
+  description: In-game purchases and economy updates
+
+accessibility:
+  label: Accessibility
+  permalink: /accessibility
+  description: Accessibility features and improvements
+
+beta:
+  label: Beta
+  permalink: /beta
+  description: Beta testing and experimental features
+
+deprecated:
+  label: Deprecated
+  permalink: /deprecated
+  description: Features being removed or discontinued
+
+security:
+  label: Security
+  permalink: /security
+  description: Security updates and anti-cheat improvements

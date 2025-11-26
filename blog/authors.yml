@@ -1,8 +1,8 @@
-yangshun:
-  name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
+dev_team:
+  name: Johny Development Team
+  title: Game Developers
+  url: https://github.com/Johny-Development
+  image_url: https://github.com/Johny-Development.png
   page: true
   socials:
     x: yangshunz
@@ -10,16 +10,9 @@ yangshun:
     github: yangshun
     newsletter: https://www.greatfrontend.com
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+community_manager:
+  name: Community Manager
+  title: Player Relations
+  url: https://johny-development.github.io
+  image_url: https://github.com/Johny-Development.png
+  page: true

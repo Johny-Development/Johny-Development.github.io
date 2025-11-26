@@ -50,9 +50,15 @@ const config: Config = {
         },
         blog: {
           showReadingTime: true,
+          readingTime: ({content, frontMatter, defaultReadingTime}) => defaultReadingTime({content, options: {wordsPerMinute: 300}}),
+          postsPerPage: 5,
+          blogSidebarTitle: 'Recent Updates',
+          blogSidebarCount: 10,
           feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
+            type: 'all',
+            title: 'Johny Development Blog',
+            description: 'Latest updates and news from Johny Development',
+            copyright: `Copyright © ${new Date().getFullYear()} Johny Development`,
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -90,6 +96,7 @@ const config: Config = {
           label: 'Tutorial',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/changelog', label: 'Changelog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
