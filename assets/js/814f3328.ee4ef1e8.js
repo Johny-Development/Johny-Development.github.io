@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkjohny_development_github_io=globalThis.webpackChunkjohny_development_github_io||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent Updates","items":[{"title":"Welcome to Our New Website! \ud83c\udf89","permalink":"/blog/welcome-to-our-new-website","unlisted":false,"date":"2025-11-25T00:00:00.000Z"}]}')}}]);

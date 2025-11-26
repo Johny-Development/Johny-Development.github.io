@@ -1,109 +1,87 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://johny-development.github.io/blog</id>
     <title>Johny Development Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2025-11-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://johny-development.github.io/blog"/>
-    <subtitle>Johny Development Blog</subtitle>
+    <subtitle>Latest updates and news from Johny Development</subtitle>
     <icon>https://johny-development.github.io/img/favicon.ico</icon>
+    <rights>Copyright © 2025 Johny Development</rights>
     <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://johny-development.github.io/blog/welcome</id>
-        <link href="https://johny-development.github.io/blog/welcome"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer" class="">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer" class="">blog plugin</a>.</p>
-<p>Here are a few tips you might find useful.</p>
-<p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>
-<p>Regular blog authors can be added to <code>authors.yml</code>.</p>
-<p>The blog post date can be extracted from filenames, such as:</p>
+        <title type="html"><![CDATA[Welcome to Our New Website! 🎉]]></title>
+        <id>https://johny-development.github.io/blog/welcome-to-our-new-website</id>
+        <link href="https://johny-development.github.io/blog/welcome-to-our-new-website"/>
+        <updated>2025-11-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing the official Johny Development documentation and blog site]]></summary>
+        <content type="html"><![CDATA[<p>We're thrilled to announce the launch of the official <strong>Johny Development</strong> documentation and blog site!</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-is-johny-development">What is Johny Development?<a href="https://johny-development.github.io/blog/welcome-to-our-new-website#what-is-johny-development" class="hash-link" aria-label="Direct link to What is Johny Development?" title="Direct link to What is Johny Development?" translate="no">​</a></h2>
+<p>Johny Development is a Roblox game development team dedicated to creating amazing gaming experiences. We're passionate about building games that players love, and now we have a home where we can share our journey with you!</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-we-built-this-site">Why We Built This Site<a href="https://johny-development.github.io/blog/welcome-to-our-new-website#why-we-built-this-site" class="hash-link" aria-label="Direct link to Why We Built This Site" title="Direct link to Why We Built This Site" translate="no">​</a></h2>
+<p>As our community grew, we realized we needed a better way to:</p>
 <ul>
-<li class=""><code>2019-05-30-welcome.md</code></li>
-<li class=""><code>2019-05-30-welcome/index.md</code></li>
+<li class="">📢 <strong>Communicate updates</strong> - Share game updates, patch notes, and announcements</li>
+<li class="">📚 <strong>Provide documentation</strong> - Help players understand game mechanics and features</li>
+<li class="">🛠️ <strong>Share our process</strong> - Give behind-the-scenes looks at development</li>
+<li class="">💬 <strong>Connect with players</strong> - Build a stronger relationship with our community</li>
 </ul>
-<p>A blog post folder can be convenient to co-locate blog post images:</p>
-<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://johny-development.github.io/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
-<p>The blog supports tags as well!</p>
-<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-youll-find-here">What You'll Find Here<a href="https://johny-development.github.io/blog/welcome-to-our-new-website#what-youll-find-here" class="hash-link" aria-label="Direct link to What You'll Find Here" title="Direct link to What You'll Find Here" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-dev-blog">📰 Dev Blog<a href="https://johny-development.github.io/blog/welcome-to-our-new-website#-dev-blog" class="hash-link" aria-label="Direct link to 📰 Dev Blog" title="Direct link to 📰 Dev Blog" translate="no">​</a></h3>
+<p>Stay up-to-date with the latest news:</p>
+<ul>
+<li class="">Game updates and patch notes</li>
+<li class="">New feature announcements</li>
+<li class="">Behind-the-scenes development stories</li>
+<li class="">Community highlights and events</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-documentation">📖 Documentation<a href="https://johny-development.github.io/blog/welcome-to-our-new-website#-documentation" class="hash-link" aria-label="Direct link to 📖 Documentation" title="Direct link to 📖 Documentation" translate="no">​</a></h3>
+<p>Comprehensive guides for our games:</p>
+<ul>
+<li class="">Getting started guides</li>
+<li class="">Gameplay mechanics explained</li>
+<li class="">Tips and strategies</li>
+<li class="">FAQ and troubleshooting</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-changelog">📋 Changelog<a href="https://johny-development.github.io/blog/welcome-to-our-new-website#-changelog" class="hash-link" aria-label="Direct link to 📋 Changelog" title="Direct link to 📋 Changelog" translate="no">​</a></h3>
+<p>A complete history of all game updates, so you never miss what's new.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="whats-coming-next">What's Coming Next<a href="https://johny-development.github.io/blog/welcome-to-our-new-website#whats-coming-next" class="hash-link" aria-label="Direct link to What's Coming Next" title="Direct link to What's Coming Next" translate="no">​</a></h2>
+<p>We have exciting plans for the future:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-upcoming-features">🎮 Upcoming Features<a href="https://johny-development.github.io/blog/welcome-to-our-new-website#-upcoming-features" class="hash-link" aria-label="Direct link to 🎮 Upcoming Features" title="Direct link to 🎮 Upcoming Features" translate="no">​</a></h3>
+<ul>
+<li class="">Regular development blogs</li>
+<li class="">Video tutorials and gameplay guides</li>
+<li class="">Community spotlight features</li>
+<li class="">Interactive feedback system</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="️-roadmap">🗺️ Roadmap<a href="https://johny-development.github.io/blog/welcome-to-our-new-website#%EF%B8%8F-roadmap" class="hash-link" aria-label="Direct link to 🗺️ Roadmap" title="Direct link to 🗺️ Roadmap" translate="no">​</a></h3>
+<p>We'll be sharing our development roadmap soon, giving you a peek at what we're working on and what's coming to our games!</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-community-involvement">🤝 Community Involvement<a href="https://johny-development.github.io/blog/welcome-to-our-new-website#-community-involvement" class="hash-link" aria-label="Direct link to 🤝 Community Involvement" title="Direct link to 🤝 Community Involvement" translate="no">​</a></h3>
+<p>We want this to be a two-way conversation! We'll be:</p>
+<ul>
+<li class="">Highlighting community creations</li>
+<li class="">Featuring top players</li>
+<li class="">Sharing player suggestions that made it into the game</li>
+<li class="">Running community events and competitions</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="thank-you">Thank You!<a href="https://johny-development.github.io/blog/welcome-to-our-new-website#thank-you" class="hash-link" aria-label="Direct link to Thank You!" title="Direct link to Thank You!" translate="no">​</a></h2>
+<p>A huge thank you to our amazing community! None of this would be possible without your support, feedback, and enthusiasm for our games.</p>
+<p>We've come a long way, and this website marks an exciting new chapter for Johny Development. We can't wait to share more with you!</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-would-you-like-to-see">What Would You Like to See?<a href="https://johny-development.github.io/blog/welcome-to-our-new-website#what-would-you-like-to-see" class="hash-link" aria-label="Direct link to What Would You Like to See?" title="Direct link to What Would You Like to See?" translate="no">​</a></h3>
+<p>This site is for <strong>you</strong>, our community. What content would you like to see more of?</p>
+<ul>
+<li class="">Development tutorials?</li>
+<li class="">Gameplay guides?</li>
+<li class="">Behind-the-scenes videos?</li>
+<li class="">Developer Q&amp;As?</li>
+</ul>
+<p><strong>Stay tuned for our next post</strong> where we'll be sharing our development roadmap and upcoming features!</p>
+<p><em>Welcome to the Johny Development family! 🚀</em></p>]]></content>
         <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
+            <name>Johny Development Team</name>
+            <uri>https://github.com/Johny-Development</uri>
         </author>
-        <author>
-            <name>Yangshun Tay</name>
-            <uri>https://linkedin.com/in/yangshun</uri>
-        </author>
-        <category label="Facebook" term="Facebook"/>
-        <category label="Hello" term="Hello"/>
-        <category label="Docusaurus" term="Docusaurus"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MDX Blog Post]]></title>
-        <id>https://johny-development.github.io/blog/mdx-blog-post</id>
-        <link href="https://johny-development.github.io/blog/mdx-blog-post"/>
-        <updated>2021-08-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
-        <content type="html"><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer" class="">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer" class="">MDX</a>.</p>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><p>Use the power of React to create interactive blog posts.</p></div></div>
-<!-- -->
-<p>For example, use JSX to create an interactive button:</p>
-<div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token operator" style="color:#393A34">&lt;</span><span class="token plain">button onClick</span><span class="token operator" style="color:#393A34">=</span><span class="token punctuation" style="color:#393A34">{</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:#393A34">=&gt;</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">alert</span><span class="token punctuation" style="color:#393A34">(</span><span class="token string" style="color:#e3116c">'button clicked!'</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">}</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token maybe-class-name">Click</span><span class="token plain"> me</span><span class="token operator" style="color:#393A34">!</span><span class="token operator" style="color:#393A34">&lt;</span><span class="token operator" style="color:#393A34">/</span><span class="token plain">button</span><span class="token operator" style="color:#393A34">&gt;</span><br></span></code></pre></div></div>
-<button>Click me!</button>]]></content>
-        <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
-        </author>
-        <category label="Docusaurus" term="Docusaurus"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long Blog Post]]></title>
-        <id>https://johny-development.github.io/blog/long-blog-post</id>
-        <link href="https://johny-development.github.io/blog/long-blog-post"/>
-        <updated>2019-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
-        <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p>
-<p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
-        <author>
-            <name>Yangshun Tay</name>
-            <uri>https://linkedin.com/in/yangshun</uri>
-        </author>
-        <category label="Hello" term="Hello"/>
-        <category label="Docusaurus" term="Docusaurus"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://johny-development.github.io/blog/first-blog-post</id>
-        <link href="https://johny-development.github.io/blog/first-blog-post"/>
-        <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet...]]></summary>
-        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
-<p>...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
-        <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
-        </author>
-        <author>
-            <name>Yangshun Tay</name>
-            <uri>https://linkedin.com/in/yangshun</uri>
-        </author>
-        <category label="Hola" term="Hola"/>
-        <category label="Docusaurus" term="Docusaurus"/>
+        <category label="Announcement" term="Announcement"/>
+        <category label="Milestone" term="Milestone"/>
+        <category label="Community" term="Community"/>
     </entry>
 </feed>
